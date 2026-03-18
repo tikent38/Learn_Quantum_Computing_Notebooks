@@ -6,7 +6,9 @@ This repo contains the notebooks developed as part of a CAHSI research project a
 ## Google Colab Notebook Links
 Grover's Search: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elope237/CAHSI-26research/blob/main/Jupyter_Notebooks/Grovers_Search.ipynb)
 
-Quantum Fourier Transform:
+Quantum Fourier Transform: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elope237/CAHSI-26research/blob/main/Jupyter_Notebooks/QFT.ipynb)
+
+
 
 Quantum Amplitude Estimation:
 
